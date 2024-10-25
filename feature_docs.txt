@@ -1,1 +1,4 @@
-Ovo je neka dokumentacija za feature!
+Ovo je sada neka nova dokumentacija
+I ovde je sada drugi red ove dokumentacije
+I ovo je sada neki treci red dokumentacije
+A ovde je sad neki peti red dokumentacije!
