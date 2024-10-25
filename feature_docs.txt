@@ -1,4 +1,4 @@
-Ovo je sada neka nova dokumentacija
-I ovde je sada drugi red ove dokumentacije
-I ovo je sada neki treci red dokumentacije
-A ovde je sad neki peti red dokumentacije!
+Ovo je neka dokumentacija za feature!
+Ovde je sada neka druga stranica
+Treci red je drugacije
+A bogami i cetvrti
